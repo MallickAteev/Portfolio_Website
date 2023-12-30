@@ -14,7 +14,7 @@ Welcome to the repository for my personal portfolio website! This website showca
 
 ## Demo
 
-You can check out the live demo of my portfolio website at [https://yourportfolio.com](https://yourportfolio.com).
+You can check out the live demo of my portfolio website at https://ateevmallick.com.np.
 
 ## Features
 
@@ -35,4 +35,4 @@ To set up this portfolio website locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/MallickAteev/Portfolio_Website
