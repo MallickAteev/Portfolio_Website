@@ -8,9 +8,7 @@ Welcome to the repository for my personal portfolio website! This website showca
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Demo
 
